@@ -1,0 +1,25 @@
+{
+  "name": "nodepdfsplit",
+  "version": "1.0.0",
+  "description": "Split PDF files by pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chasedmartin@github.com/chasedmartin/NodePDFSplit.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Chase Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chasedmartin/NodePDFSplit/issues"
+  },
+  "homepage": "https://github.com/chasedmartin/NodePDFSplit#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
